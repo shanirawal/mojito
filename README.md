@@ -1,12 +1,38 @@
-# React + Vite
+# Mojito 🍹
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive and visually stunning landing page built with **React**, **Tailwind CSS**, and **GSAP** animations. Mojito offers a smooth and engaging user experience powered by modern frontend technologies.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 [mojito.vercel.app](https://mojito-gbaflhkpr-shani-rawals-projects.vercel.app/)
 
-## Expanding the ESLint configuration
+## 📁 GitHub Repository
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📌 [shanirawal/mojito](https://github.com/shanirawal/mojito)
+
+## 🚀 Tech Stack
+
+- **React** – Component-based UI
+- **Tailwind CSS** – Utility-first CSS framework
+- **GSAP** – High-performance animations
+- **Vite** – Lightning-fast dev server & build tool
+
+## ✨ Features
+
+- Fully responsive UI
+- GSAP-powered smooth animations
+- Scroll-triggered effects
+- Clean and modern design
+- Optimized for speed and performance
+
+## 📦 Getting Started
+
+Clone the repo and install dependencies:
+
+```bash
+git clone https://github.com/shanirawal/mojito.git
+cd mojito
+npm install
+npm run dev
+```
+
